@@ -1,0 +1,11 @@
+fastapi==0.75.0
+uvicorn==0.17.6
+aiohttp==3.8.1
+pandas==1.5.3
+tensorflow
+numpy
+scikit-learn
+pydantic
+sentence-transformers
+tensorflow-recommenders
+protobuf == 3.20.*
